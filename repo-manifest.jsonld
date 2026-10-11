@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/monty/commit/c6e072c41f492981dab3181cf215745c81b52df2",
       "git:hexsha": "c6e072c41f492981dab3181cf215745c81b52df2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/monty/commit/31fe1ecf464cf8307f74b87c1abef09342753ea9",
